@@ -1,5 +1,4 @@
 #  **Breno José De Oliveira**
----
 
 ## **Um pouco sobre mim:**
 
@@ -13,6 +12,8 @@
 ### •    Lógica de Programação;
 ### •    Javascript;
 ### •    Inglês.
+
+---
 
 ##    **Pretendo Estudar no Futuro:**
 ### •    Criação de Jogos ( em outras engines e outras linguagens);
