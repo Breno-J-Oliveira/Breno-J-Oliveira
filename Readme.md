@@ -4,6 +4,8 @@
 
 ###    Me chamo Breno, tenho 17 anos e sou de Santo André SP. Estou cursando o ensino médio no Sesi e desenvolvimento de sistema no Senai, já concluí um curso técnico de informática avançada, e sou apaixonado por tecnologia.
 
+---
+
 ##    Estou Estudando Agora:
 ### •    Criação de Jogos;
 ### •    Javascript;
@@ -17,10 +19,9 @@
 ### •    Artes em jogos ( estilos de desenhos em jogos);
 ### •    Marketing e Design.
 
-
 ---
 
-### Linguagens e Tecnologias:
+## Linguagens e Tecnologias:
 
 <img 
     align="left" 
