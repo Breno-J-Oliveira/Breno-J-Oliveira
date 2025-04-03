@@ -6,7 +6,7 @@
 
 ---
 
-##    Estou Estudando Agora:
+##    **Estou Estudando Agora:**
 ### •    Criação de Jogos;
 ### •    Javascript;
 ### •    Lógica de Programação;
@@ -23,7 +23,7 @@
 
 ---
 
-## ** Linguagens e Tecnologias:
+##    **Linguagens e Tecnologias:**
 
 <img 
     align="left" 
