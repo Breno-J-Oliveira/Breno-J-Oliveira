@@ -1,21 +1,21 @@
 #  **Breno José De Oliveira**
 
-## **Um pouco sobre mim:** 
+## **Um pouco sobre mim:**
 
-###    Me chamo Breno, tenho 17 anos e sou de Santo André SP. Estou cursando o ensino médio no Sesi e desenvolvimento de sistema no Senai, já concluí um curso técnico de informática avançada, e sou apaixonado por tecnologia.###
+###    Me chamo Breno, tenho 17 anos e sou de Santo André SP. Estou cursando o ensino médio no Sesi e desenvolvimento de sistema no Senai, já concluí um curso técnico de informática avançada, e sou apaixonado por tecnologia.
 
-##    Estou Estudando Agora:##
-### •    Criação de Jogos;#
-### •    Javascript;#
-### •    Lógica de Programação;#
-### •    Javascript;#
-### •    Inglês.#
+##    Estou Estudando Agora:
+### •    Criação de Jogos;
+### •    Javascript;
+### •    Lógica de Programação;
+### •    Javascript;
+### •    Inglês.
 
-Pretendo Estudar no Futuro:
-Criação de Jogos ( em outras engines e outras linguagens);
-Modelagem 3d;
-Artes em jogos ( estilos de desenhos em jogos);
-Marketing e Design.
+##    **Pretendo Estudar no Futuro:**
+### •    Criação de Jogos ( em outras engines e outras linguagens);
+### •    Modelagem 3d;
+### •    Artes em jogos ( estilos de desenhos em jogos);
+### •    Marketing e Design.
 
 
 ---
