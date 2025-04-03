@@ -1,5 +1,7 @@
 #  **Breno José De Oliveira**
 
+---
+
 ## **Um pouco sobre mim:**
 
 ###    Me chamo Breno, tenho 17 anos e sou de Santo André SP. Estou cursando o ensino médio no Sesi e desenvolvimento de sistema no Senai, já concluí um curso técnico de informática avançada, e sou apaixonado por tecnologia.
