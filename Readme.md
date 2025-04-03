@@ -15,7 +15,7 @@
 
 ---
 
-##    **Pretendo Estudar no Futuro:**
+##       Pretendo Estudar no Futuro:
 ### •    Criação de Jogos ( em outras engines e outras linguagens);
 ### •    Modelagem 3d;
 ### •    Artes em jogos ( estilos de desenhos em jogos);
