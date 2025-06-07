@@ -80,9 +80,3 @@
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Breno-J-Oliveira&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
 
 ---
-
-## 🔗 Acesse meu currículo online:
-
-👉 [Clique aqui para ver meu currículo completo](https://breno-j-oliveira.github.io/CurriculoOnline/)
-
-<img src="https://breno-j-oliveira.github.io/CurriculoOnline/Imagem%20do%20WhatsApp%20de%202025-06-07%20à(s)%2013.09.16_a8b9e532.jpg" alt="Foto do Currículo" width="300"/>
