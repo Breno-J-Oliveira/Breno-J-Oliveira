@@ -73,22 +73,21 @@
 
 ## Estatísticas:
 
-<h3>💻 GitHub Profile Stats</h3>
-
-<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Breno_J_Oliveira's Github Stats"
-         src="https://github-readme-stats.vercel.app/api?username=Breno-J-Oliveira&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-         height="192px"/>
-  </a>
-
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Linguagens Mais Usadas"
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=Breno-J-Oliveira&layout=compact&theme=tokyonight&langs_count=8"
-         height="192px"/>
-  </a>
-
-</div>
-
----
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img alt="Breno_J_Oliveira's Github Stats"
+             src="https://github-readme-stats.vercel.app/api?username=Breno-J-Oliveira&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+             height="192px"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img alt="Linguagens Mais Usadas"
+             src="https://github-readme-stats.vercel.app/api/top-langs/?username=Breno-J-Oliveira&layout=compact&theme=tokyonight&langs_count=8"
+             height="192px"/>
+      </a>
+    </td>
+  </tr>
+</table>
