@@ -1,32 +1,33 @@
-# Breno José De Oliveira
+# 𝓑𝓻𝓮𝓷𝓸 𝓙𝓸́𝓼𝓮 𝓓𝓮 𝓞𝓵𝓲𝓿𝓮𝓲𝓻𝓪
 
-## Um pouco sobre mim
+## 𝓤𝓶 𝓹𝓸𝓾𝓬𝓸 𝓼𝓸𝓫𝓻𝓮 𝓶𝓲𝓶
 
 Me chamo Breno, tenho 17 anos e sou de Santo André, SP.  
-Estou cursando o ensino médio no Sesi e desenvolvimento de sistema no Senai, já concluí um curso técnico de informática avançada e sou apaixonado por tecnologia.
+Estou cursando o ensino médio no Sesi e desenvolvimento de sistemas no Senai.  
+Já concluí um curso técnico de informática avançada e sou apaixonado por tecnologia.
 
 ---
 
-## Estou estudando agora
+## 𝓔𝓼𝓽𝓸𝓾 𝓔𝓼𝓽𝓾𝓭𝓪𝓷𝓭𝓸 𝓐𝓰𝓸𝓻𝓪
 
-- Criação de Jogos  
-- Javascript  
-- Lógica de Programação  
-- Inglês  
-
----
-
-## Pretendo estudar no futuro
-
-- Criação de Jogos (em outras engines e linguagens)  
-- Modelagem 3D  
-- Artes em jogos (estilos de desenhos)  
-- Marketing e Design  
+• Criação de Jogos  
+• Javascript  
+• Lógica de Programação  
+• Inglês  
 
 ---
 
-<details>
-  <summary>Minhas Ferramentas Favoritas</summary>
+## 𝓟𝓻𝓮𝓽𝓮𝓷𝓭𝓸 𝓔𝓼𝓽𝓾𝓭𝓪𝓻 𝓷𝓸 𝓕𝓾𝓽𝓾𝓻𝓸
+
+• Criação de Jogos (outras engines e linguagens)  
+• Modelagem 3D  
+• Artes em jogos (estilos de desenhos)  
+• Marketing e Design  
+
+---
+
+<details> 
+  <summary>𝓜𝓲𝓷𝓱𝓪𝓼 𝓕𝓮𝓻𝓻𝓪𝓶𝓮𝓷𝓽𝓪𝓼 𝓕𝓪𝓿𝓸𝓻𝓲𝓽𝓪𝓼</summary>
 
 ### Linguagens
 
@@ -70,6 +71,21 @@ Estou cursando o ensino médio no Sesi e desenvolvimento de sistema no Senai, j�
 
 ## Estatísticas
 
-| ![Breno's Github Stats](https://github-readme-stats.vercel.app/api?username=Breno-J-Oliveira&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Breno-J-Oliveira&layout=compact&theme=radical&langs_count=8) |
-|---|---|
-
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img alt="Breno_J_Oliveira's Github Stats"
+             src="https://github-readme-stats.vercel.app/api?username=Breno-J-Oliveira&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+             height="192px"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img alt="Linguagens Mais Usadas"
+             src="https://github-readme-stats.vercel.app/api/top-langs/?username=Breno-J-Oliveira&layout=compact&theme=tokyonight&langs_count=8"
+             height="192px"/>
+      </a>
+    </td>
+  </tr>
+</table>
