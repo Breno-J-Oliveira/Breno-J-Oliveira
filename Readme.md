@@ -2,9 +2,7 @@
 
 ## 𝓤𝓶 𝓹𝓸𝓾𝓬𝓸 𝓼𝓸𝓫𝓻𝓮 𝓶𝓲𝓶
 
-Me chamo Breno, tenho 17 anos e sou de Santo André, SP.  
-Estou cursando o ensino médio no Sesi e desenvolvimento de sistemas no Senai.  
-Já concluí um curso técnico de informática avançada e sou apaixonado por tecnologia.
+Me chamo Breno, tenho 17 anos e sou de Santo André, SP. Estou cursando o ensino médio no Sesi e desenvolvimento de sistemas no Senai. Já concluí um curso técnico de informática avançada e sou apaixonado por tecnologia.
 
 ---
 
