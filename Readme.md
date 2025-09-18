@@ -72,13 +72,15 @@ Me chamo Breno, tenho 17 anos e sou de Santo André, SP. Estou cursando o ensino
 <table>
   <tr>
     <td>
-      ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Breno-J-Oliveira&layout=compact)
+      <a href="https://github.com/Breno-J-Oliveira/">
+        <img alt="Git Stats" height="200" 
+             src="https://github-readme-stats.vercel.app/api?username=Breno-J-Oliveira&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
+      </a>
     </td>
     <td>
       <a href="https://github.com/Breno-J-Oliveira/">
-        <img alt="Linguagens Mais Usadas"
-             src="https://github-readme-stats.vercel.app/api/top-langs/?username=Breno-J-Oliveira&layout=compact&theme=tokyonight&langs_count=8"
-             height="192px"/>
+        <img alt="Git Stats" height="200" 
+             src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
       </a>
     </td>
   </tr>
