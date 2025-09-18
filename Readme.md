@@ -73,18 +73,23 @@ Me chamo Breno, tenho 17 anos e sou de Santo André, SP. Estou cursando o ensino
   <tr>
     <td>
       <a href="https://github.com/Breno-J-Oliveira/">
-        <img alt="Git Stats" height="200" 
-             src="https://github-readme-stats.vercel.app/api?username=Breno-J-Oliveira&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
+        <img 
+          alt="Git Stats" 
+          height="200" 
+          src="https://github-readme-stats.vercel.app/api?username=Breno-J-Oliveira&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+        />
       </a>
     </td>
     <td>
       <a href="https://github.com/Breno-J-Oliveira/">
-      <img 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Breno-J-Oliveira&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+        <img 
+          alt="GitHub Stats" 
+          height="200" 
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=Breno-J-Oliveira&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+        />
       </a>
     </td>
   </tr>
+</table>
+
 </table>
