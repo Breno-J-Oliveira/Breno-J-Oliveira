@@ -15,15 +15,6 @@ Me chamo Breno, tenho 17 anos e sou de Santo André, SP. Estou cursando o ensino
 
 ---
 
-## 𝓟𝓻𝓮𝓽𝓮𝓷𝓭𝓸 𝓔𝓼𝓽𝓾𝓭𝓪𝓻 𝓷𝓸 𝓕𝓾𝓽𝓾𝓻𝓸
-
-• Criação de Jogos (outras engines e linguagens)  
-• Modelagem 3D  
-• Artes em jogos (estilos de desenhos)  
-• Marketing e Design  
-
----
-
 <details> 
   <summary>𝓜𝓲𝓷𝓱𝓪𝓼 𝓕𝓮𝓻𝓻𝓪𝓶𝓮𝓷𝓽𝓪𝓼 𝓕𝓪𝓿𝓸𝓻𝓲𝓽𝓪𝓼</summary>
 
