@@ -83,4 +83,7 @@ Me chamo Breno, tenho 17 anos e sou de Santo André, SP. Estou cursando o ensino
   </tr>
 </table>
 
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=B897FF&height=100&section=footer)
+
 </table>
