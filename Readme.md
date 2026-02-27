@@ -121,6 +121,8 @@
 
 ---
 
+<br>
+
 # Selected Projects
 
 ## Intelligent Traffic Control System
@@ -142,32 +144,14 @@
 - Automated logging and monitoring  
 - Structured user management  
 
----
-
-# Goals 2026
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Production_Ready_Applications-111827?style=for-the-badge&logo=vercel&logoColor=white">
-  <img src="https://img.shields.io/badge/Advanced_Backend_Architecture-111827?style=for-the-badge&logo=fastapi&logoColor=white">
-  <img src="https://img.shields.io/badge/Open_Source_Contributor-111827?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/Launch_SaaS_Product-111827?style=for-the-badge&logo=stripe&logoColor=white">
-</p>
-
----
-
-# Engineering Philosophy
-
-Clean code.  
-System thinking.  
-Daily consistency.  
-Long-term growth.
+<br>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Breno-J-Oliveira&color=1f6feb&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=Breno-J-Oliveira&color=ff0000&style=flat-square" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f19,100:111827&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000:0b0f19,100:111827&height=120&section=footer"/>
 </p>
