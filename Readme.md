@@ -128,8 +128,8 @@
 <p align="left">
   <a href="https://github.com/Breno-J-Oliveira">
     <img height="50%"
-         src="https://raw.githubusercontent.com/Breno-J-Oliveira/github-stats/master/generated/overview.svg" />
-    <h2>Intelligent Traffic Control System</h2>
+         src="https://conceito.de/montanha" />
+    <h3>Intelligent Traffic Control System</h3>
     <p>- Real-time traffic control logic</p>
   </a>
 </p>
