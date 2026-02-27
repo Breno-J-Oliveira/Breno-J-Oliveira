@@ -6,7 +6,7 @@
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Inter&size=28&duration=2400&pause=1600&color=E6EDF3&center=true&vCenter=true&width=1050&lines=BACKEND;APIs+•+Automation+•+Databases+•+Systems;FRONTEND;Interfaces+•+UX+•+Performance;DESIGN;Minimal+Visuals+•+Branding+•+Creative+Direction" 
+    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=2200&pause=1800&color=58A6FF&center=true&vCenter=true&width=1100&lines=Backend+Engineering;Designing+APIs+%E2%80%A2+Automation+%E2%80%A2+Databases;Frontend+Development;Building+Interfaces+%E2%80%A2+UX+%E2%80%A2+Performance;System+Design;Architecture+%E2%80%A2+Scalability+%E2%80%A2+Structure" 
   />
 </p>
 
