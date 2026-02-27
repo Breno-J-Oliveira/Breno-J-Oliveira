@@ -99,39 +99,16 @@
 
 <h2 align="center">GitHub Statistics</h2>
 
-<br>
-
-<br>
-
-<!-- Main Stats + Top Languages -->
 <p align="center">
-  <img 
-    height="160"
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Breno-J-Oliveira&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
-  />
-  <img 
-    height="160"
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Breno-J-Oliveira&layout=compact&theme=tokyonight&hide_border=true"
-  />
-</p>
-
-<br>
-
-<!-- Streak -->
-<p align="center">
-  <img 
-    height="160"
-    src="https://streak-stats.demolab.com?user=Breno-J-Oliveira&theme=tokyonight&hide_border=true"
-  />
-</p>
-
-<br>
-
-<!-- Trophies (mais compacto) -->
-<p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=Breno-J-Oliveira&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=15"
-  />
+  <a href="https://github.com/Breno-J-Oliveira" target="_blank">
+    <img height="170" 
+         src="https://github.com/Breno-J-Oliveira/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Breno-J-Oliveira" target="_blank">
+    <img height="170" 
+         src="https://github.com/Breno-J-Oliveira/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+  </a>
 </p>
 
 ---
