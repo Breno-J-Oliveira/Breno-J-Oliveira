@@ -125,32 +125,14 @@
 
 <h2 align="center">Selected Projects</h2>
 
-<p align="left">
+<p align="right">
   <a href="https://github.com/Breno-J-Oliveira">
     <img height="500px"
          src="https://conceito.de/montanha" />
-    <h3>Intelligent Traffic Control System</h3>
+    <h4>Intelligent Traffic Control System</h4>
     <p>- Real-time traffic control logic</p>
   </a>
 </p>
-## Intelligent Traffic Control System
-- Multi-board Arduino communication architecture  
-- Real-time traffic control logic  
-- Pedestrian priority algorithm  
-- 7-segment display integration  
-- Embedded systems coordination  
-
-## Multimedia Download Platform
-- Automatic platform detection  
-- Preview embedding system  
-- Modular backend structure  
-- Quality-based download selection  
-
-## Digital Gate Management System
-- Python-based authentication  
-- Role-based access control  
-- Automated logging and monitoring  
-- Structured user management  
 
 <br>
 
