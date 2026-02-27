@@ -67,6 +67,8 @@
 
 ---
 
+<br>
+
 <h2 align="center">Tech Stack</h2>
 
 ## Languages
@@ -95,7 +97,11 @@
   <img src="https://img.shields.io/badge/PHPUnit-111827?style=for-the-badge&logo=php&logoColor=white"/>
 </p>
 
+<br>
+
 ---
+
+<br>
 
 <h2 align="center">GitHub Statistics</h2>
 
@@ -110,6 +116,8 @@
          src="https://raw.githubusercontent.com/Breno-J-Oliveira/github-stats/master/generated/languages.svg" />
   </a>
 </p>
+
+<br>
 
 ---
 
