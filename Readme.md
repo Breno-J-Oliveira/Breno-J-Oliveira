@@ -123,20 +123,16 @@
 
 <br>
 
+<h2 align="center">Selected Projects</h2>
+
 <p align="left">
   <a href="https://github.com/Breno-J-Oliveira">
-    <img height="170"
+    <img height="50%"
          src="https://raw.githubusercontent.com/Breno-J-Oliveira/github-stats/master/generated/overview.svg" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/Breno-J-Oliveira">
-    <img height="170"
-         src="https://raw.githubusercontent.com/Breno-J-Oliveira/github-stats/master/generated/languages.svg" />
+    <h2>Intelligent Traffic Control System</h2>
+    <p>- Real-time traffic control logic</p>
   </a>
 </p>
-
-# Selected Projects
-
 ## Intelligent Traffic Control System
 - Multi-board Arduino communication architecture  
 - Real-time traffic control logic  
