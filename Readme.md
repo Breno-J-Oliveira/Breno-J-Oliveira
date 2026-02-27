@@ -80,7 +80,7 @@
 ## Technologies & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,arduino,githubactions,git,vscode,arch,android,wordpress" height="42"/>
+  <img src="https://skillicons.dev/icons?i=linux,arduino,githubactions,git,vscode,arch,wordpress" height="42"/>
 </p>
 
 <br>
