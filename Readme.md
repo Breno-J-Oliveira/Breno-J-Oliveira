@@ -29,13 +29,13 @@
 
 ---
 
-# About
+## About
 
-Systems Development student at SENAI and High School at SESI.  
-Background in Advanced Computing with practical experience in backend development, automation and embedded systems.
+Systems Development student at SENAI and High School student at SESI, with a background in Advanced Computing and hands-on experience in backend development, automation and embedded systems.
 
-I focus on building clean, modular and scalable solutions with strong attention to architecture, performance and long-term maintainability.
+I design and build clean, modular and scalable solutions, prioritizing solid architecture, performance optimization and long-term maintainability.
 
+Focused on continuous improvement and real-world problem solving through structured engineering principles.
 ---
 
 # Current Focus
