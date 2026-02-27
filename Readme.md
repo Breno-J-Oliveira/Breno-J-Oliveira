@@ -35,7 +35,7 @@
 
 <h2 align="center">About</h2>
 
-<br><br>
+<br>
 
   Systems Development student at SENAI with a strong foundation in Advanced Computing and hands-on experience in backend systems, automation and embedded architecture.
 
@@ -53,7 +53,7 @@
 
 <h2 align="center">Current Focus</h2>
 
-<br><br>
+<br>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Scalable_Backend_Systems-111827?style=for-the-badge&logo=node.js&logoColor=white" />
