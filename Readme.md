@@ -5,7 +5,9 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1200&color=E6EDF3&center=true&vCenter=true&width=900&lines=Backend+%26+Systems+Developer;Architecture+%7C+Automation+%7C+Engineering;Building+Scalable+and+Structured+Solutions" />
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Inter&size=28&duration=2400&pause=1600&color=E6EDF3&center=true&vCenter=true&width=1050&lines=BACKEND;APIs+•+Automation+•+Databases+•+Systems;FRONTEND;Interfaces+•+UX+•+Performance;DESIGN;Minimal+Visuals+•+Branding+•+Creative+Direction" 
+  />
 </p>
 
 <!-- ======================== SOCIAL BUTTONS ======================== -->
