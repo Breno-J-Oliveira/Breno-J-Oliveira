@@ -99,17 +99,30 @@
 
 <h2 align="center">GitHub Statistics</h2>
 
+<br>
+
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Breno-J-Oliveira&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Breno-J-Oliveira&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img 
+    height="165" 
+    src="https://github-readme-stats.vercel.app/api?username=Breno-J-Oliveira&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400" 
+  />
+  <img 
+    height="165" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Breno-J-Oliveira&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" 
+  />
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Breno-J-Oliveira&theme=tokyonight&hide_border=true"/>
+  <img 
+    height="165" 
+    src="https://streak-stats.demolab.com?user=Breno-J-Oliveira&theme=tokyonight&hide_border=true&cache_seconds=86400" 
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Breno-J-Oliveira&theme=tokyonight&no-frame=true&margin-w=6"/>
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=Breno-J-Oliveira&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10" 
+  />
 </p>
 
 ---
