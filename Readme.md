@@ -43,10 +43,16 @@
 
 <h2 align="center">Current Focus</h2>
 
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=2000&pause=1200&color=FF1E1E&center=true&vCenter=true&width=900&lines=Scalable+Backend+Systems;API+Design+%26+Architecture;Performance+Optimization;CI%2FCD+%26+Automation;Embedded+Integration" 
-  />
+<<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=1800&pause=30000&color=FF1E1E&center=true&vCenter=true&width=700&lines=Scalable+Backend+Systems" />
+  <br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=2000&pause=30000&color=FF1E1E&center=true&vCenter=true&width=700&lines=API+Design+%26+Architecture" />
+  <br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=2200&pause=30000&color=FF1E1E&center=true&vCenter=true&width=700&lines=Performance+Optimization" />
+  <br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=2400&pause=30000&color=FF1E1E&center=true&vCenter=true&width=700&lines=CI%2FCD+%26+Automation" />
+  <br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=2600&pause=30000&color=FF1E1E&center=true&vCenter=true&width=700&lines=Embedded+Systems+Integration" />
 </p>
 
 ---
