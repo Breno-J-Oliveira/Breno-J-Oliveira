@@ -69,51 +69,40 @@
 
 <h2 align="center">Tech Stack</h2>
 
-<p align="center" style="margin:6px 0 4px 0;">
-  <sub style="color:#9aa4b2">Core technologies I use daily — compact & focused</sub>
+<br>
+
+<!-- Core Languages -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,c,cpp,java" height="40"/>
 </p>
 
-<!-- Core Languages (compact row) -->
-<p align="center" style="margin:8px 0;">
-  <img src="https://skillicons.dev/icons?i=python" alt="python" height="36" style="margin:0 8px; vertical-align:middle; border-radius:6px;">
-  <img src="https://skillicons.dev/icons?i=js" alt="javascript" height="36" style="margin:0 8px; vertical-align:middle; border-radius:6px;">
-  <img src="https://skillicons.dev/icons?i=c,cpp" alt="c and cpp" height="36" style="margin:0 8px; vertical-align:middle; border-radius:6px;">
-  <img src="https://skillicons.dev/icons?i=java" alt="java" height="36" style="margin:0 8px; vertical-align:middle; border-radius:6px;">
+<br>
+
+<!-- Backend & Systems -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,arduino,githubactions,bash" height="40"/>
 </p>
 
-<!-- Backend & Systems (compact row + small tags) -->
-<p align="center" style="margin:6px 0 4px 0;">
-  <strong style="font-weight:600; color:#e6edf3">Backend & Systems</strong>
+<p align="center">
+  <img src="https://img.shields.io/badge/REST_APIs-111827?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/CI/CD-111827?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/System_Design-111827?style=for-the-badge&logo=linux&logoColor=white"/>
 </p>
 
-<p align="center" style="margin:8px 0 6px 0;">
-  <img src="https://skillicons.dev/icons?i=linux" alt="linux" height="36" style="margin:0 10px; vertical-align:middle; border-radius:6px;">
-  <img src="https://skillicons.dev/icons?i=arduino" alt="arduino" height="36" style="margin:0 10px; vertical-align:middle; border-radius:6px;">
-  <img src="https://skillicons.dev/icons?i=githubactions" alt="github actions" height="36" style="margin:0 10px; vertical-align:middle; border-radius:6px;">
-  <img src="https://skillicons.dev/icons?i=bash" alt="bash" height="36" style="margin:0 10px; vertical-align:middle; border-radius:6px;">
+<br>
+
+<!-- Tools -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,vscode,arch,android" height="40"/>
 </p>
 
-<p align="center" style="margin:6px 0 14px 0;">
-  <img src="https://img.shields.io/badge/REST_APIs-111827?style=for-the-badge&logo=fastapi&logoColor=white" alt="rest" style="margin:0 6px;">
-  <img src="https://img.shields.io/badge/CI/CD-111827?style=for-the-badge&logo=githubactions&logoColor=white" alt="cicd" style="margin:0 6px;">
-  <img src="https://img.shields.io/badge/System_Design-111827?style=for-the-badge&logo=linux&logoColor=white" alt="system design" style="margin:0 6px;">
-</p>
+<br>
 
-<!-- Tools & Environment -->
-<p align="center" style="margin:6px 0 4px 0;">
-  <strong style="font-weight:600; color:#e6edf3">Tools & Environment</strong>
+<p align="center">
+  <sub>Backend • Systems • Architecture • Embedded Integration</sub>
 </p>
-
-<p align="center" style="margin:8px 0 12px 0;">
-  <img src="https://skillicons.dev/icons?i=git" alt="git" height="36" style="margin:0 10px; vertical-align:middle; border-radius:6px;">
-  <img src="https://skillicons.dev/icons?i=vscode" alt="vscode" height="36" style="margin:0 10px; vertical-align:middle; border-radius:6px;">
-  <img src="https://skillicons.dev/icons?i=arch,android" alt="arch android" height="36" style="margin:0 10px; vertical-align:middle; border-radius:6px;">
-</p>
-
-<p align="center" style="margin:6px 0 20px 0;">
-  <sub style="color:#9aa4b2">Focused on backend engineering, system architecture and embedded integration.</sub>
-</p>
-
 ---
 
 # GitHub Statistics
