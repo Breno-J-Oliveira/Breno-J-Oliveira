@@ -133,11 +133,9 @@
          src="https://conceito.de/montanha](https://static.vecteezy.com/ti/vetor-gratis/p1/6326646-montanha-and-por-do-sol-paisagem-ceu-vetor.jpg" />
     <a>
       <h4 align="left" >Intelligent Traffic Control System</h4>
-      <p>- Real-time traffic control logic</p>
-    </a>
-    <a>
+      <p align="left">- Real-time traffic control logic</p>
       <h4 align="righ" >Intelligent Traffic Control System</h4>
-      <p>- Real-time traffic control logic</p>
+      <p align="righ" >- Real-time traffic control logic</p>
     </a>
   </a>
 </p>
