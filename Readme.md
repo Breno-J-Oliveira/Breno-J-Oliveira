@@ -1,11 +1,11 @@
 <!-- ======================== HEADER ======================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=260&text=Breno%20José%20de%20Oliveira&fontSize=44&color=0:0b0f19,100:111827&stroke=334155&fontColor=E6EDF3&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=260&text=Breno%20José%20de%20Oliveira&fontSize=42&color=0:0b0f19,100:111827&stroke=334155&fontColor=E6EDF3&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1200&color=E6EDF3&center=true&vCenter=true&width=900&lines=Software+Developer+in+Formation;Systems+Development+Student;Focused+on+Architecture+%7C+Backend+%7C+Automation;Building+with+Discipline+and+Consistency" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1200&color=E6EDF3&center=true&vCenter=true&width=900&lines=Backend+%26+Systems+Developer;Architecture+%7C+Automation+%7C+Engineering;Building+Scalable+and+Structured+Solutions" />
 </p>
 
 <!-- ======================== SOCIAL BUTTONS ======================== -->
@@ -30,40 +30,39 @@
 
 ---
 
-# Sobre
+# About
 
-Estudante de **Desenvolvimento de Sistemas no SENAI** e ensino médio no **SESI**.  
-Formado em **Informática Avançada**, com foco prático em desenvolvimento, automação e sistemas embarcados.
+Systems Development student at SENAI and High School at SESI.  
+Background in Advanced Computing with practical experience in backend development, automation and embedded systems.
 
-Construo projetos buscando organização, clareza de código e evolução constante.  
-Interesse principal em backend, arquitetura de sistemas e engenharia de software.
+I focus on building clean, modular and scalable solutions with strong attention to architecture, performance and long-term maintainability.
 
 ---
 
-# Foco Atual
+# Current Focus
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Game_Development-111827?style=for-the-badge&logo=unity&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Advanced_Logic-111827?style=for-the-badge&logo=codeforces&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Modern_JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Technical_English-111827?style=for-the-badge&logo=googletranslate&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Data_Structures-111827?style=for-the-badge&logo=thealgorithms&logoColor=white"></a>
+  <img src="https://img.shields.io/badge/Backend_Architecture-111827?style=for-the-badge&logo=fastapi&logoColor=white">
+  <img src="https://img.shields.io/badge/Data_Structures-111827?style=for-the-badge&logo=thealgorithms&logoColor=white">
+  <img src="https://img.shields.io/badge/System_Design-111827?style=for-the-badge&logo=linux&logoColor=white">
+  <img src="https://img.shields.io/badge/Automation-111827?style=for-the-badge&logo=githubactions&logoColor=white">
+  <img src="https://img.shields.io/badge/Technical_English-111827?style=for-the-badge&logo=googletranslate&logoColor=white">
 </p>
 
 ---
 
 # Tech Stack
 
-## Linguagens
+## Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=bash,c,cpp,cs,html,css,js,java,php,python" />
+<img src="https://skillicons.dev/icons?i=python,js,java,php,c,cpp,bash,cs,html,css" />
 </p>
 
-## Tecnologias & Bibliotecas
+## Technologies & Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=arduino,githubactions,wordpress,linux,arch,android,git,vscode" />
+<img src="https://skillicons.dev/icons?i=arduino,githubactions,linux,arch,android,git,vscode,wordpress" />
 </p>
 
 <p align="center">
@@ -75,7 +74,7 @@ Interesse principal em backend, arquitetura de sistemas e engenharia de software
 
 ---
 
-# Estatísticas
+# GitHub Statistics
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Breno-J-Oliveira&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
@@ -92,36 +91,46 @@ Interesse principal em backend, arquitetura de sistemas e engenharia de software
 
 ---
 
-# Projetos Selecionados
+# Selected Projects
 
-## Sistema de Semáforo Inteligente
-Arquitetura com múltiplos Arduinos, controle de cruzamento real, display 7 segmentos e lógica de prioridade para pedestres.
+## Intelligent Traffic Control System
+- Multi-board Arduino communication architecture  
+- Real-time traffic control logic  
+- Pedestrian priority algorithm  
+- 7-segment display integration  
+- Embedded systems coordination  
 
-## Plataforma de Download Multimídia
-Identificação automática de plataforma, preview embutido e download com seleção de qualidade.
+## Multimedia Download Platform
+- Automatic platform detection  
+- Preview embedding system  
+- Modular backend structure  
+- Quality-based download selection  
 
-## Sistema de Portaria Digital
-Aplicação em Python com autenticação, controle de usuários e registro automatizado.
+## Digital Gate Management System
+- Python-based authentication  
+- Role-based access control  
+- Automated logging and monitoring  
+- Structured user management  
 
 ---
 
-# Objetivos 2026
+# Goals 2026
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Fullstack_Production_Apps-111827?style=for-the-badge&logo=vercel&logoColor=white">
-  <img src="https://img.shields.io/badge/Backend_Architecture-111827?style=for-the-badge&logo=fastapi&logoColor=white">
+  <img src="https://img.shields.io/badge/Production_Ready_Applications-111827?style=for-the-badge&logo=vercel&logoColor=white">
+  <img src="https://img.shields.io/badge/Advanced_Backend_Architecture-111827?style=for-the-badge&logo=fastapi&logoColor=white">
   <img src="https://img.shields.io/badge/Open_Source_Contributor-111827?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/Launch_SaaS-111827?style=for-the-badge&logo=stripe&logoColor=white">
+  <img src="https://img.shields.io/badge/Launch_SaaS_Product-111827?style=for-the-badge&logo=stripe&logoColor=white">
 </p>
 
 ---
 
-# Filosofia
+# Engineering Philosophy
 
-Código limpo.  
-Consistência diária.  
-Aprendizado contínuo.  
-Evolução de longo prazo.
+Clean code.  
+System thinking.  
+Daily consistency.  
+Long-term growth.
 
 ---
 
