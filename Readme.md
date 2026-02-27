@@ -127,7 +127,7 @@
 
 <p align="left">
   <a href="https://github.com/Breno-J-Oliveira">
-    <img height="50%"
+    <img height="500px"
          src="https://conceito.de/montanha" />
     <h3>Intelligent Traffic Control System</h3>
     <p>- Real-time traffic control logic</p>
