@@ -43,16 +43,11 @@
 
 <h2 align="center">Current Focus</h2>
 
-<<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=1800&pause=30000&color=FF1E1E&center=true&vCenter=true&width=700&lines=Scalable+Backend+Systems" />
-  <br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=2000&pause=30000&color=FF1E1E&center=true&vCenter=true&width=700&lines=API+Design+%26+Architecture" />
-  <br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=2200&pause=30000&color=FF1E1E&center=true&vCenter=true&width=700&lines=Performance+Optimization" />
-  <br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=2400&pause=30000&color=FF1E1E&center=true&vCenter=true&width=700&lines=CI%2FCD+%26+Automation" />
-  <br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=2600&pause=30000&color=FF1E1E&center=true&vCenter=true&width=700&lines=Embedded+Systems+Integration" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Backend_Systems_Engineering-111827?style=for-the-badge&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/System_Design_&_Scalability-111827?style=for-the-badge&logo=linux&logoColor=white">
+  <img src="https://img.shields.io/badge/Automation_&_CI/CD-111827?style=for-the-badge&logo=githubactions&logoColor=white">
+  <img src="https://img.shields.io/badge/Embedded_Software-111827?style=for-the-badge&logo=arduino&logoColor=white">
 </p>
 
 ---
