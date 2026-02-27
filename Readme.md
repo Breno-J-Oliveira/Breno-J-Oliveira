@@ -41,14 +41,14 @@
 
 ---
 
-# Current Focus
+<h2 align="center">Current Focus</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Backend_Architecture-111827?style=for-the-badge&logo=fastapi&logoColor=white">
-  <img src="https://img.shields.io/badge/Data_Structures-111827?style=for-the-badge&logo=thealgorithms&logoColor=white">
-  <img src="https://img.shields.io/badge/System_Design-111827?style=for-the-badge&logo=linux&logoColor=white">
-  <img src="https://img.shields.io/badge/Automation-111827?style=for-the-badge&logo=githubactions&logoColor=white">
-  <img src="https://img.shields.io/badge/Technical_English-111827?style=for-the-badge&logo=googletranslate&logoColor=white">
+  <img src="https://img.shields.io/badge/Scalable_Backend_Systems-111827?style=for-the-badge&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/API_Design_&_Architecture-111827?style=for-the-badge&logo=fastapi&logoColor=white">
+  <img src="https://img.shields.io/badge/Performance_Optimization-111827?style=for-the-badge&logo=linux&logoColor=white">
+  <img src="https://img.shields.io/badge/CI/CD_&_Automation-111827?style=for-the-badge&logo=githubactions&logoColor=white">
+  <img src="https://img.shields.io/badge/Embedded_Integration-111827?style=for-the-badge&logo=arduino&logoColor=white">
 </p>
 
 ---
