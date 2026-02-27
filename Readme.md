@@ -52,6 +52,7 @@ Open to internships, collaborative projects and mentoring opportunities — inte
 </p>
 
 </div>
+
 ---
 
 # Current Focus
