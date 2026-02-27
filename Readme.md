@@ -149,7 +149,7 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Breno-J-Oliveira&color=ff0000&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=Breno-J-Oliveira&height=120&color=ff0000&style=flat-square" />
 </p>
 
 <p align="center">
