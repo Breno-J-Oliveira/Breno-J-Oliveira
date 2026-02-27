@@ -29,24 +29,15 @@
 
 ---
 
-<p align="center">
-  <h2>About</h2>
-</p>
+<h2 align="center">About</h2>
 
-Systems Development student at SENAI and High School student at SESI, with a background in Advanced Computing and practical experience in backend engineering, automation and embedded systems.
+Systems Development student at SENAI with a strong foundation in Advanced Computing and hands-on experience in backend systems, automation and embedded architecture.
 
-I design and deliver clean, modular and scalable solutions with a strong emphasis on robust architecture, performance optimization, observability and long-term maintainability. I apply pragmatic engineering practices — including automated testing, CI/CD pipelines and clear documentation — to ensure systems are reliable and easy to operate.
+I build structured, scalable and performance-oriented software, combining low-level understanding with high-level system design. My approach emphasizes clean code, modularity, testing discipline and long-term maintainability.
 
-**Core Skills:**  
-Node.js · Python · C / C++ · REST · gRPC · SQL & NoSQL · Docker · Git · Arduino
+I enjoy solving real-world problems through engineering thinking — designing APIs, automating workflows, integrating hardware with software and structuring systems that are production-ready.
 
-**Focus Areas:**  
-System architecture · Automation · Performance engineering · Embedded integration · Developer experience
-
-**Short-term Goals (2026):**  
-Deliver 6 production-ready projects, implement automated pipelines for each project, deepen knowledge in distributed systems and strengthen technical English for documentation and interviews.
-
-Open to internships, collaborative projects and mentoring opportunities — interested in building reliable, production-grade software and embedded solutions.
+Currently focused on backend architecture, system design and building projects that reflect professional engineering standards.
 
 ---
 
