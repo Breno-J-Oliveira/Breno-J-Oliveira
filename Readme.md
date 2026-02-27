@@ -97,7 +97,7 @@
 
 ---
 
-# GitHub Statistics
+<h2 align="center">GitHub Statistics</h2>
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Breno-J-Oliveira&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
