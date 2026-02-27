@@ -69,40 +69,32 @@
 
 <h2 align="center">Tech Stack</h2>
 
-<br>
+## Languages
 
-<!-- Core Languages -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,c,cpp,java" height="40"/>
+  <img src="https://skillicons.dev/icons?i=python,js,java,php,c,cpp,cs,bash,html,css" height="42"/>
 </p>
 
 <br>
 
-<!-- Backend & Systems -->
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,arduino,githubactions,bash" height="40"/>
-</p>
+## Technologies & Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/REST_APIs-111827?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/CI/CD-111827?style=for-the-badge&logo=githubactions&logoColor=white"/>
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/System_Design-111827?style=for-the-badge&logo=linux&logoColor=white"/>
-</p>
-
-<br>
-
-<!-- Tools -->
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,vscode,arch,android" height="40"/>
+  <img src="https://skillicons.dev/icons?i=linux,arduino,githubactions,git,vscode,arch,android,wordpress" height="42"/>
 </p>
 
 <br>
 
 <p align="center">
-  <sub>Backend • Systems • Architecture • Embedded Integration</sub>
+  <img src="https://img.shields.io/badge/Discord.py-111827?style=for-the-badge&logo=discord&logoColor=5865F2"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Nextcord-111827?style=for-the-badge&logo=discord&logoColor=5865F2"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/NumPy-111827?style=for-the-badge&logo=numpy&logoColor=013243"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/PHPUnit-111827?style=for-the-badge&logo=php&logoColor=white"/>
 </p>
+
 ---
 
 # GitHub Statistics
