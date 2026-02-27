@@ -43,17 +43,18 @@
 
 <h2 align="center">Current Focus</h2>
 
+<h2 align="center">Current Focus</h2>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Scalable_Backend_Systems-111827?style=for-the-badge&logo=node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/API_Design_&_Architecture-111827?style=for-the-badge&logo=fastapi&logoColor=white">
-  <img src="https://img.shields.io/badge/Performance_Optimization-111827?style=for-the-badge&logo=linux&logoColor=white">
-  <img src="https://img.shields.io/badge/CI/CD_&_Automation-111827?style=for-the-badge&logo=githubactions&logoColor=white">
-  <img src="https://img.shields.io/badge/Embedded_Integration-111827?style=for-the-badge&logo=arduino&logoColor=white">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=2000&pause=1200&color=FF1E1E&center=true&vCenter=true&width=900&lines=Scalable+Backend+Systems;API+Design+%26+Architecture;Performance+Optimization;CI%2FCD+%26+Automation;Embedded+Integration" 
+  />
 </p>
 
 ---
 
-# Tech Stack
+<h2 align="center">Tech Stack </h2>
+
 
 ## Languages
 
