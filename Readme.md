@@ -31,13 +31,13 @@
 
 <h2 align="center">About</h2>
 
-Systems Development student at SENAI with a strong foundation in Advanced Computing and hands-on experience in backend systems, automation and embedded architecture.
+  Systems Development student at SENAI with a strong foundation in Advanced Computing and hands-on experience in backend systems, automation and embedded architecture.
 
-I build structured, scalable and performance-oriented software, combining low-level understanding with high-level system design. My approach emphasizes clean code, modularity, testing discipline and long-term maintainability.
+  I build structured, scalable and performance-oriented software, combining low-level understanding with high-level system design. My approach emphasizes clean code, modularity, testing discipline and long-term maintainability.
 
-I enjoy solving real-world problems through engineering thinking — designing APIs, automating workflows, integrating hardware with software and structuring systems that are production-ready.
+  I enjoy solving real-world problems through engineering thinking — designing APIs, automating workflows, integrating hardware with software and structuring systems that are production-ready.
 
-Currently focused on backend architecture, system design and building projects that reflect professional engineering standards.
+  Currently focused on backend architecture, system design and building projects that reflect professional engineering standards.
 
 ---
 
