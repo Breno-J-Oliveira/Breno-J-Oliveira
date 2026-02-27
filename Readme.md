@@ -127,15 +127,12 @@
 
 <p>
   <a href="https://github.com/Breno-J-Oliveira">
+    <img align="left" height="500px"
+         src="https://conceito.de/montanha](https://static.vecteezy.com/ti/vetor-gratis/p1/6326646-montanha-and-por-do-sol-paisagem-ceu-vetor.jpg" />
     <img align="right" height="500px"
          src="https://conceito.de/montanha](https://static.vecteezy.com/ti/vetor-gratis/p1/6326646-montanha-and-por-do-sol-paisagem-ceu-vetor.jpg" />
     <h4 align="right" >Intelligent Traffic Control System</h4>
     <p align="right">- Real-time traffic control logic</p>
-  </a>
-  
-  <a href="https://github.com/Breno-J-Oliveira">
-    <img align="left" height="500px"
-         src="https://conceito.de/montanha](https://static.vecteezy.com/ti/vetor-gratis/p1/6326646-montanha-and-por-do-sol-paisagem-ceu-vetor.jpg" />
     <h4 align="left" >Intelligent Traffic Control System</h4>
     <p align="left">- Real-time traffic control logic</p>
   </a>
