@@ -1,12 +1,12 @@
 <!-- ======================== HEADER ======================== -->
 
-<<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=260&text=Breno%20J.%20Oliveira&fontSize=42&color=0:05070d,100:0f172a&stroke=1e293b&strokeWidth=2&fontColor=E6EDF3&animation=fadeIn" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=270&text=Breno%20J.%20Oliveira&fontSize=46&fontAlignY=45&color=0:0f0000,50:7a0000,100:ff0000&stroke=8b0000&strokeWidth=2.5&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=2200&pause=1800&color=58A6FF&center=true&vCenter=true&width=1100&lines=Backend+Engineering;Designing+APIs+%E2%80%A2+Automation+%E2%80%A2+Databases;Frontend+Development;Building+Interfaces+%E2%80%A2+UX+%E2%80%A2+Performance;System+Design;Architecture+%E2%80%A2+Scalability+%E2%80%A2+Structure" 
+    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&duration=2400&pause=2000&color=FF1E1E&center=true&vCenter=true&width=1000&lines=Backend+Engineering;Designing+APIs+%E2%80%A2+Automation+%E2%80%A2+Databases;Frontend+Development;Building+Interfaces+%E2%80%A2+UX+%E2%80%A2+Performance;System+Architecture;Scalability+%E2%80%A2+Structure+%E2%80%A2+Clean+Code" 
   />
 </p>
 
