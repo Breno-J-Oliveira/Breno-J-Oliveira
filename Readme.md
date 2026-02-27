@@ -125,16 +125,14 @@
 
 <h2 align="center">Selected Projects</h2>
 
-<p align="right">
-  <a href="https://github.com/Breno-J-Oliveira">
+<p>
+  <a align="right" href="https://github.com/Breno-J-Oliveira">
     <img height="500px"
          src="https://conceito.de/montanha](https://static.vecteezy.com/ti/vetor-gratis/p1/6326646-montanha-and-por-do-sol-paisagem-ceu-vetor.jpg" />
     <h4 align="right" >Intelligent Traffic Control System</h4>
     <p align="right">- Real-time traffic control logic</p>
   </a>
-</p>
-
-<p align="left">
+  
   <a href="https://github.com/Breno-J-Oliveira">
     <img height="500px"
          src="https://conceito.de/montanha](https://static.vecteezy.com/ti/vetor-gratis/p1/6326646-montanha-and-por-do-sol-paisagem-ceu-vetor.jpg" />
