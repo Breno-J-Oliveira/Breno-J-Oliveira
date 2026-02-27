@@ -101,27 +101,36 @@
 
 <br>
 
+<br>
+
+<!-- Main Stats + Top Languages -->
 <p align="center">
   <img 
-    height="165" 
-    src="https://github-readme-stats.vercel.app/api?username=Breno-J-Oliveira&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400" 
+    height="160"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Breno-J-Oliveira&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
   />
   <img 
-    height="165" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Breno-J-Oliveira&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" 
+    height="160"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Breno-J-Oliveira&layout=compact&theme=tokyonight&hide_border=true"
   />
 </p>
 
+<br>
+
+<!-- Streak -->
 <p align="center">
   <img 
-    height="165" 
-    src="https://streak-stats.demolab.com?user=Breno-J-Oliveira&theme=tokyonight&hide_border=true&cache_seconds=86400" 
+    height="160"
+    src="https://streak-stats.demolab.com?user=Breno-J-Oliveira&theme=tokyonight&hide_border=true"
   />
 </p>
 
+<br>
+
+<!-- Trophies (mais compacto) -->
 <p align="center">
   <img 
-    src="https://github-profile-trophy.vercel.app/?username=Breno-J-Oliveira&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10" 
+    src="https://github-profile-trophy.vercel.app/?username=Breno-J-Oliveira&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=15"
   />
 </p>
 
