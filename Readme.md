@@ -29,29 +29,24 @@
 
 ---
 
-<div align="center">
+<p align="center">
+  <h2>About</h2>
+</p>
 
-## About
-
-<p>
 Systems Development student at SENAI and High School student at SESI, with a background in Advanced Computing and practical experience in backend engineering, automation and embedded systems.
-</p>
 
-<p>
-I design and deliver clean, modular and scalable solutions with a strong emphasis on robust architecture, performance optimization, observability and long-term maintainability. I apply pragmatic engineering practices—automated tests, CI/CD, and clear documentation—to ensure systems are reliable and easy to operate.
-</p>
+I design and deliver clean, modular and scalable solutions with a strong emphasis on robust architecture, performance optimization, observability and long-term maintainability. I apply pragmatic engineering practices — including automated testing, CI/CD pipelines and clear documentation — to ensure systems are reliable and easy to operate.
 
-<p><strong>Core skills:</strong> Node.js · Python · C / C++ · REST & gRPC · SQL & NoSQL · Docker · Git · Arduino</p>
+**Core Skills:**  
+Node.js · Python · C / C++ · REST · gRPC · SQL & NoSQL · Docker · Git · Arduino
 
-<p><strong>Focus areas:</strong> system architecture · automation · performance engineering · embedded integration · developer experience</p>
+**Focus Areas:**  
+System architecture · Automation · Performance engineering · Embedded integration · Developer experience
 
-<p><strong>Short-term goals (2026):</strong> deliver 6 production-ready projects, implement automated pipelines for each project, deepen knowledge in distributed systems, and strengthen technical English for documentation and interviews.</p>
+**Short-term Goals (2026):**  
+Deliver 6 production-ready projects, implement automated pipelines for each project, deepen knowledge in distributed systems and strengthen technical English for documentation and interviews.
 
-<p>
 Open to internships, collaborative projects and mentoring opportunities — interested in building reliable, production-grade software and embedded solutions.
-</p>
-
-</div>
 
 ---
 
