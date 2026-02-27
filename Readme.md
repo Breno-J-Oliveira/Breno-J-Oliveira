@@ -1,7 +1,7 @@
 <!-- ======================== HEADER ======================== -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=260&text=Breno%20José%20de%20Oliveira&fontSize=42&color=0:0b0f19,100:111827&stroke=334155&fontColor=E6EDF3&animation=fadeIn" />
+<<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=260&text=Breno%20J.%20Oliveira&fontSize=42&color=0:05070d,100:0f172a&stroke=1e293b&strokeWidth=2&fontColor=E6EDF3&animation=fadeIn" />
 </p>
 
 <p align="center">
