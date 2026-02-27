@@ -125,12 +125,12 @@
 
 <h2 align="center">Selected Projects</h2>
 
-<p align="right">
+<p align="left">
   <a href="https://github.com/Breno-J-Oliveira">
     <img height="500px"
          src="https://conceito.de/montanha" />
-    <h4>Intelligent Traffic Control System</h4>
-    <p>- Real-time traffic control logic</p>
+    <h4 align="center" >Intelligent Traffic Control System</h4>
+    <p align="center">- Real-time traffic control logic</p>
   </a>
 </p>
 
