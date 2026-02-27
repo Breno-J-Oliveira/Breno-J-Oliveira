@@ -100,14 +100,14 @@
 <h2 align="center">GitHub Statistics</h2>
 
 <p align="center">
-  <a href="https://github.com/Breno-J-Oliveira" target="_blank">
-    <img height="170" 
-         src="https://github.com/Breno-J-Oliveira/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+  <a href="https://github.com/Breno-J-Oliveira">
+    <img height="170"
+         src="https://raw.githubusercontent.com/Breno-J-Oliveira/github-stats/master/generated/overview.svg" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/Breno-J-Oliveira" target="_blank">
-    <img height="170" 
-         src="https://github.com/Breno-J-Oliveira/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+  <a href="https://github.com/Breno-J-Oliveira">
+    <img height="170"
+         src="https://raw.githubusercontent.com/Breno-J-Oliveira/github-stats/master/generated/languages.svg" />
   </a>
 </p>
 
