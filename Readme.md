@@ -27,9 +27,15 @@
   </a>
 </p>
 
+<br>
+
 ---
 
+<br>
+
 <h2 align="center">About</h2>
+
+<br><br>
 
   Systems Development student at SENAI with a strong foundation in Advanced Computing and hands-on experience in backend systems, automation and embedded architecture.
 
@@ -38,6 +44,8 @@
   I enjoy solving real-world problems through engineering thinking — designing APIs, automating workflows, integrating hardware with software and structuring systems that are production-ready.
 
   Currently focused on backend architecture, system design and building projects that reflect professional engineering standards.
+
+<br>
 
 ---
 
