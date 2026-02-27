@@ -67,26 +67,36 @@
 
 ---
 
-<h2 align="center">Tech Stack </h2>
+<h2 align="center">Tech Stack</h2>
 
+<br>
 
-## Languages
+<h3 align="center">Core Languages</h3>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,js,java,php,c,cpp,bash,cs,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,js,c,cpp,java" />
 </p>
 
-## Technologies & Tools
+<br>
+
+<h3 align="center">Backend & Systems</h3>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=arduino,githubactions,linux,arch,android,git,vscode,wordpress" />
+  <img src="https://skillicons.dev/icons?i=linux,arduino,githubactions,bash" />
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Discord.py-111827?style=for-the-badge&logo=discord&logoColor=5865F2">
-<img src="https://img.shields.io/badge/Nextcord-111827?style=for-the-badge&logo=discord&logoColor=5865F2">
-<img src="https://img.shields.io/badge/NumPy-111827?style=for-the-badge&logo=numpy&logoColor=013243">
-<img src="https://img.shields.io/badge/PHPUnit-111827?style=for-the-badge&logo=php&logoColor=white">
+  <img src="https://img.shields.io/badge/REST_APIs-111827?style=for-the-badge&logo=fastapi&logoColor=white">
+  <img src="https://img.shields.io/badge/CI/CD-111827?style=for-the-badge&logo=githubactions&logoColor=white">
+  <img src="https://img.shields.io/badge/System_Design-111827?style=for-the-badge&logo=linux&logoColor=white">
+</p>
+
+<br>
+
+<h3 align="center">Tools & Environment</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,vscode,arch,android" />
 </p>
 
 ---
