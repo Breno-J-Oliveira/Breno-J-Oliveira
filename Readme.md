@@ -41,7 +41,11 @@
 
 ---
 
+<br>
+
 <h2 align="center">Current Focus</h2>
+
+<br><br>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Scalable_Backend_Systems-111827?style=for-the-badge&logo=node.js&logoColor=white" />
@@ -50,6 +54,8 @@
   <img src="https://img.shields.io/badge/Automation_&_CI/CD-111827?style=for-the-badge&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/Embedded_Systems-111827?style=for-the-badge&logo=arduino&logoColor=white" />
 </p>
+
+<br>
 
 ---
 
