@@ -123,6 +123,18 @@
 
 <br>
 
+<p align="left">
+  <a href="https://github.com/Breno-J-Oliveira">
+    <img height="170"
+         src="https://raw.githubusercontent.com/Breno-J-Oliveira/github-stats/master/generated/overview.svg" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Breno-J-Oliveira">
+    <img height="170"
+         src="https://raw.githubusercontent.com/Breno-J-Oliveira/github-stats/master/generated/languages.svg" />
+  </a>
+</p>
+
 # Selected Projects
 
 ## Intelligent Traffic Control System
