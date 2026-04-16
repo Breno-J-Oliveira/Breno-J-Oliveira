@@ -19,7 +19,7 @@
   <a href="https://instagram.com/">
     <img src="https://img.shields.io/badge/Instagram-111827?style=for-the-badge&logo=instagram&logoColor=E1306C">
   </a>
-  <a href="mailto:seuemail@email.com">
+  <a href="mailto:breno.emailsenai@gmail.com">
     <img src="https://img.shields.io/badge/Email-1E293B?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="#">
