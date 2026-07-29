@@ -1,0 +1,107 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="610" viewBox="0 0 1180 610">
+  <defs>
+    <linearGradient id="bgGradL" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f0f4f8">
+        <animate attributeName="stop-color" values="#f0f4f8;#e8edf5;#f0f4f8" dur="8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#e8edf5">
+        <animate attributeName="stop-color" values="#e8edf5;#f0f4f8;#e8edf5" dur="8s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <linearGradient id="borderGradL" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00f5ff">
+        <animate attributeName="stop-color" values="#00f5ff;#b44fff;#ffd700;#00f5ff" dur="4s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#b44fff">
+        <animate attributeName="stop-color" values="#b44fff;#ffd700;#00f5ff;#b44fff" dur="4s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <linearGradient id="textGradL" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00f5ff"/>
+      <stop offset="50%" stop-color="#b44fff"/>
+      <stop offset="100%" stop-color="#ffd700"/>
+      <animate attributeName="x1" values="0%;100%;0%" dur="6s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="100%;0%;100%" dur="6s" repeatCount="indefinite"/>
+    </linearGradient>
+    <filter id="glowL"><feGaussianBlur stdDeviation="1.5" result="blur"/><feComposite in="SourceGraphic" in2="blur" operator="over"/></filter>
+    <pattern id="scanlinesL" width="100%" height="4" patternUnits="userSpaceOnUse">
+      <rect width="100%" height="2" fill="transparent"/>
+      <rect y="2" width="100%" height="2" fill="rgba(0,0,0,0.03)"/>
+    </pattern>
+    <clipPath id="lr1"><rect x="420" y="88" width="740" height="20"><animate attributeName="width" from="0" to="740" dur="0.3s" begin="0.8s" fill="freeze"/></rect></clipPath>
+    <clipPath id="lr2"><rect x="420" y="115" width="740" height="20"><animate attributeName="width" from="0" to="740" dur="0.3s" begin="1.0s" fill="freeze"/></rect></clipPath>
+    <clipPath id="lr3"><rect x="420" y="142" width="740" height="20"><animate attributeName="width" from="0" to="740" dur="0.3s" begin="1.2s" fill="freeze"/></rect></clipPath>
+    <clipPath id="lr4"><rect x="420" y="169" width="740" height="20"><animate attributeName="width" from="0" to="740" dur="0.3s" begin="1.4s" fill="freeze"/></rect></clipPath>
+    <clipPath id="lr5"><rect x="420" y="196" width="740" height="20"><animate attributeName="width" from="0" to="740" dur="0.3s" begin="1.6s" fill="freeze"/></rect></clipPath>
+    <clipPath id="lr6"><rect x="420" y="223" width="740" height="20"><animate attributeName="width" from="0" to="740" dur="0.3s" begin="1.8s" fill="freeze"/></rect></clipPath>
+    <clipPath id="lr7"><rect x="420" y="250" width="740" height="20"><animate attributeName="width" from="0" to="740" dur="0.3s" begin="2.0s" fill="freeze"/></rect></clipPath>
+    <clipPath id="lr8"><rect x="420" y="277" width="740" height="20"><animate attributeName="width" from="0" to="740" dur="0.3s" begin="2.2s" fill="freeze"/></rect></clipPath>
+    <clipPath id="lr9"><rect x="420" y="304" width="740" height="20"><animate attributeName="width" from="0" to="740" dur="0.3s" begin="2.4s" fill="freeze"/></rect></clipPath>
+    <clipPath id="lr10"><rect x="420" y="331" width="740" height="20"><animate attributeName="width" from="0" to="740" dur="0.3s" begin="2.6s" fill="freeze"/></rect></clipPath>
+    <clipPath id="lr11"><rect x="420" y="358" width="740" height="20"><animate attributeName="width" from="0" to="740" dur="0.3s" begin="2.8s" fill="freeze"/></rect></clipPath>
+    <clipPath id="lr12"><rect x="420" y="385" width="740" height="20"><animate attributeName="width" from="0" to="740" dur="0.3s" begin="3.0s" fill="freeze"/></rect></clipPath>
+    <clipPath id="lr13"><rect x="420" y="412" width="740" height="20"><animate attributeName="width" from="0" to="740" dur="0.3s" begin="3.2s" fill="freeze"/></rect></clipPath>
+    <clipPath id="lr14"><rect x="420" y="439" width="740" height="20"><animate attributeName="width" from="0" to="740" dur="0.3s" begin="3.4s" fill="freeze"/></rect></clipPath>
+  </defs>
+
+  <rect width="1180" height="610" fill="url(#bgGradL)" rx="12"/>
+  <rect width="1180" height="610" fill="url(#scanlinesL)" opacity="0.3" rx="12"/>
+  <rect x="1" y="1" width="1178" height="608" rx="12" fill="none" stroke="url(#borderGradL)" stroke-width="1.5" opacity="0.4"/>
+
+  <!-- Titlebar -->
+  <rect x="0" y="0" width="1180" height="38" rx="12" fill="#dde3ec"/>
+  <rect x="0" y="20" width="1180" height="18" fill="#dde3ec"/>
+  <circle cx="20" cy="19" r="6" fill="#EF4444"><animate attributeName="opacity" values="1;0.4;1" dur="2s" repeatCount="indefinite"/></circle>
+  <circle cx="40" cy="19" r="6" fill="#F59E0B"><animate attributeName="opacity" values="0.4;1;0.6;0.4" dur="2.5s" repeatCount="indefinite"/></circle>
+  <circle cx="60" cy="19" r="6" fill="#10B981"><animate attributeName="opacity" values="0.6;1;0.4;1" dur="3s" repeatCount="indefinite"/></circle>
+  <text x="590" y="24" text-anchor="middle" font-family="'Courier New', Consolas, monospace" font-size="13" fill="#4a5568">breno@galaxy ~ % ./profile.sh --live</text>
+  <circle cx="1148" cy="19" r="4" fill="#00ff88"><animate attributeName="r" values="4;5.5;4" dur="1.5s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;0.6;1" dur="1.5s" repeatCount="indefinite"/></circle>
+  <text x="1130" y="24" text-anchor="end" font-family="'Courier New', Consolas, monospace" font-size="10" fill="#00ff88">ONLINE</text>
+
+  <!-- Left panel -->
+  <rect x="15" y="50" width="390" height="545" rx="8" fill="none" stroke="url(#borderGradL)" stroke-width="1" opacity="0.2"/>
+  <text x="205" y="120" text-anchor="middle" font-family="'Courier New', Consolas, monospace" font-size="11" fill="url(#textGradL)" filter="url(#glowL)" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="1s" begin="0.3s" fill="freeze"/>██████╗ ██████╗ ███████╗███╗   ██╗ ██████╗</text>
+  <text x="205" y="136" text-anchor="middle" font-family="'Courier New', Consolas, monospace" font-size="11" fill="url(#textGradL)" filter="url(#glowL)" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="1s" begin="0.5s" fill="freeze"/>██╔══██╗██╔══██╗██╔════╝████╗  ██║██╔═══██╗</text>
+  <text x="205" y="152" text-anchor="middle" font-family="'Courier New', Consolas, monospace" font-size="11" fill="url(#textGradL)" filter="url(#glowL)" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="1s" begin="0.7s" fill="freeze"/>██████╔╝██████╔╝█████╗  ██╔██╗ ██║██║   ██║</text>
+  <text x="205" y="168" text-anchor="middle" font-family="'Courier New', Consolas, monospace" font-size="11" fill="url(#textGradL)" filter="url(#glowL)" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="1s" begin="0.9s" fill="freeze"/>██╔══██╗██╔══██╗██╔══╝  ██║╚██╗██║██║   ██║</text>
+  <text x="205" y="184" text-anchor="middle" font-family="'Courier New', Consolas, monospace" font-size="11" fill="url(#textGradL)" filter="url(#glowL)" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="1s" begin="1.1s" fill="freeze"/>██████╔╝██║  ██║███████╗██║ ╚████║╚██████╔╝</text>
+  <text x="205" y="200" text-anchor="middle" font-family="'Courier New', Consolas, monospace" font-size="11" fill="url(#textGradL)" filter="url(#glowL)" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="1s" begin="1.3s" fill="freeze"/>╚═════╝ ╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝ ╚═════╝</text>
+  <line x1="60" y1="225" x2="350" y2="225" stroke="url(#borderGradL)" stroke-width="1" opacity="0.3"/>
+  <text x="205" y="255" text-anchor="middle" font-family="'Courier New', Consolas, monospace" font-size="12" fill="#00f5ff" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.8s" begin="1.8s" fill="freeze"/>┌─────────────────────────────┐</text>
+  <text x="205" y="273" text-anchor="middle" font-family="'Courier New', Consolas, monospace" font-size="12" fill="#1a1a2e" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.8s" begin="2.0s" fill="freeze"/>│  Full Stack Developer       │</text>
+  <text x="205" y="291" text-anchor="middle" font-family="'Courier New', Consolas, monospace" font-size="12" fill="#4a5568" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.8s" begin="2.2s" fill="freeze"/>│  Backend · APIs · Arch      │</text>
+  <text x="205" y="309" text-anchor="middle" font-family="'Courier New', Consolas, monospace" font-size="12" fill="#00f5ff" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.8s" begin="2.4s" fill="freeze"/>└─────────────────────────────┘</text>
+  <text x="205" y="355" text-anchor="middle" font-family="'Courier New', Consolas, monospace" font-size="10" fill="#b44fff" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.8s" begin="2.6s" fill="freeze"/>TS · PHP · Python · C/C++</text>
+  <text x="205" y="375" text-anchor="middle" font-family="'Courier New', Consolas, monospace" font-size="10" fill="#ffd700" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.8s" begin="2.8s" fill="freeze"/>Next.js · NestJS · Docker</text>
+  <text x="205" y="395" text-anchor="middle" font-family="'Courier New', Consolas, monospace" font-size="10" fill="#00ff88" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.8s" begin="3.0s" fill="freeze"/>PostgreSQL · Redis · Prisma</text>
+  <text x="40" y="450" font-family="'Courier New', Consolas, monospace" font-size="10" fill="#4a5568" opacity="0"><animate attributeName="opacity" from="0" to="0.6" dur="1s" begin="3.5s" fill="freeze"/>$ echo "Do silício ao container Docker"</text>
+  <text x="40" y="468" font-family="'Courier New', Consolas, monospace" font-size="10" fill="#00f5ff" opacity="0"><animate attributeName="opacity" from="0" to="0.8" dur="1s" begin="3.7s" fill="freeze"/>Do silício ao container Docker</text>
+  <text x="205" y="520" text-anchor="middle" font-family="'Courier New', Consolas, monospace" font-size="9" fill="#4a5568" opacity="0"><animate attributeName="opacity" from="0" to="0.5" dur="1s" begin="4s" fill="freeze"/>── arch linux · vscode · vim ──</text>
+
+  <!-- Right panel neofetch -->
+  <rect x="415" y="50" width="750" height="545" rx="8" fill="none" stroke="url(#borderGradL)" stroke-width="1" opacity="0.2"/>
+  <text x="430" y="78" font-family="'Courier New', Consolas, monospace" font-size="11" fill="#4a5568" opacity="0"><animate attributeName="opacity" from="0" to="0.6" dur="0.5s" begin="0.6s" fill="freeze"/>╭────────────────── system info ──────────────────╮</text>
+  <g clip-path="url(#lr1)"><text x="430" y="102" font-family="'Courier New', Consolas, monospace" font-size="13"><tspan fill="#00f5ff">name</tspan><tspan fill="#4a5568">      → </tspan><tspan fill="#1a1a2e">Breno J. Oliveira</tspan></text></g>
+  <g clip-path="url(#lr2)"><text x="430" y="129" font-family="'Courier New', Consolas, monospace" font-size="13"><tspan fill="#00f5ff">role</tspan><tspan fill="#4a5568">      → </tspan><tspan fill="#1a1a2e">Full Stack Developer</tspan></text></g>
+  <g clip-path="url(#lr3)"><text x="430" y="156" font-family="'Courier New', Consolas, monospace" font-size="13"><tspan fill="#00f5ff">focus</tspan><tspan fill="#4a5568">     → </tspan><tspan fill="#b44fff">Backend · APIs · Architecture</tspan></text></g>
+  <g clip-path="url(#lr4)"><text x="430" y="183" font-family="'Courier New', Consolas, monospace" font-size="13"><tspan fill="#00f5ff">language</tspan><tspan fill="#4a5568">  → </tspan><tspan fill="#ffd700">TypeScript · PHP · Python</tspan></text></g>
+  <g clip-path="url(#lr5)"><text x="430" y="210" font-family="'Courier New', Consolas, monospace" font-size="13"><tspan fill="#00f5ff">frontend</tspan><tspan fill="#4a5568">  → </tspan><tspan fill="#1a1a2e">Next.js · React · Tailwind</tspan></text></g>
+  <g clip-path="url(#lr6)"><text x="430" y="237" font-family="'Courier New', Consolas, monospace" font-size="13"><tspan fill="#00f5ff">backend</tspan><tspan fill="#4a5568">   → </tspan><tspan fill="#1a1a2e">NestJS · Node.js · Express</tspan></text></g>
+  <g clip-path="url(#lr7)"><text x="430" y="264" font-family="'Courier New', Consolas, monospace" font-size="13"><tspan fill="#00f5ff">database</tspan><tspan fill="#4a5568">  → </tspan><tspan fill="#1a1a2e">PostgreSQL · Redis · Prisma</tspan></text></g>
+  <g clip-path="url(#lr8)"><text x="430" y="291" font-family="'Courier New', Consolas, monospace" font-size="13"><tspan fill="#00f5ff">devops</tspan><tspan fill="#4a5568">    → </tspan><tspan fill="#1a1a2e">Docker · GitHub Actions · Vercel</tspan></text></g>
+  <g clip-path="url(#lr9)"><text x="430" y="318" font-family="'Courier New', Consolas, monospace" font-size="13"><tspan fill="#00f5ff">os</tspan><tspan fill="#4a5568">        → </tspan><tspan fill="#b44fff">Arch Linux / Ubuntu Server</tspan></text></g>
+  <g clip-path="url(#lr10)"><text x="430" y="345" font-family="'Courier New', Consolas, monospace" font-size="13"><tspan fill="#00f5ff">editor</tspan><tspan fill="#4a5568">    → </tspan><tspan fill="#1a1a2e">VS Code + vim</tspan></text></g>
+  <g clip-path="url(#lr11)"><text x="430" y="372" font-family="'Courier New', Consolas, monospace" font-size="13"><tspan fill="#00f5ff">location</tspan><tspan fill="#4a5568">  → </tspan><tspan fill="#ffd700">São Paulo, Brasil 🇧🇷</tspan></text></g>
+  <g clip-path="url(#lr12)"><text x="430" y="399" font-family="'Courier New', Consolas, monospace" font-size="13"><tspan fill="#00f5ff">status</tspan><tspan fill="#4a5568">    → </tspan><tspan fill="#00ff88">● OPEN TO WORK</tspan></text></g>
+  <g clip-path="url(#lr13)"><text x="430" y="426" font-family="'Courier New', Consolas, monospace" font-size="13"><tspan fill="#00f5ff">linkedin</tspan><tspan fill="#4a5568">  → </tspan><tspan fill="#00f5ff">in/brenojoliveira</tspan></text></g>
+  <g clip-path="url(#lr14)"><text x="430" y="453" font-family="'Courier New', Consolas, monospace" font-size="13"><tspan fill="#00f5ff">github</tspan><tspan fill="#4a5568">    → </tspan><tspan fill="#b44fff">Breno-J-Oliveira</tspan><tspan fill="#00f5ff">█</tspan><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></text></g>
+
+  <line x1="430" y1="475" x2="1140" y2="475" stroke="url(#borderGradL)" stroke-width="1" opacity="0.15"/>
+  <text x="430" y="500" font-family="'Courier New', Consolas, monospace" font-size="10" fill="#4a5568" opacity="0"><animate attributeName="opacity" from="0" to="0.6" dur="0.5s" begin="4s" fill="freeze"/>─────────────────── projects ───────────────────</text>
+  <rect x="430" y="512" width="340" height="28" rx="4" fill="rgba(0,255,136,0.06)" stroke="#00ff88" stroke-width="0.5" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="4.2s" fill="freeze"/></rect>
+  <text x="440" y="531" font-family="'Courier New', Consolas, monospace" font-size="10" fill="#00ff88" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="4.2s" fill="freeze"/>✓ ARQON — The Vault [CONCLUÍDO]</text>
+  <rect x="785" y="512" width="365" height="28" rx="4" fill="rgba(255,215,0,0.06)" stroke="#ffd700" stroke-width="0.5" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="4.4s" fill="freeze"/></rect>
+  <text x="795" y="531" font-family="'Courier New', Consolas, monospace" font-size="10" fill="#ffd700" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="4.4s" fill="freeze"/>⚡ ZENITH — Organização Pessoal [DEV]</text>
+  <text x="590" y="570" text-anchor="middle" font-family="'Courier New', Consolas, monospace" font-size="9" fill="#4a5568" opacity="0"><animate attributeName="opacity" from="0" to="0.4" dur="1s" begin="4.8s" fill="freeze"/>── powered by passion + caffeine ──</text>
+  <rect x="585" y="575" width="8" height="12" fill="#00f5ff" opacity="0"><animate attributeName="opacity" values="0;1;0" dur="1.2s" begin="5s" repeatCount="indefinite"/></rect>
+</svg>
