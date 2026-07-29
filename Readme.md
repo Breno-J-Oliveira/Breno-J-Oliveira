@@ -356,7 +356,11 @@
 
 <br>
 
-<h2 align="center">⏱️ &nbsp;WakaTime</h2>
+<h2 align="center">⏱️ &nbsp;WakaTime Stats</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/WakaTime-Real_Time_Stats-00f5ff?style=for-the-badge&logo=wakatime&logoColor=00f5ff&labelColor=0d0d0d" />
+</p>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-21%20hrs%2022%20mins-blue?style=flat)
@@ -408,7 +412,9 @@ Windows                  12 hrs 41 mins      ███████████�
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=BrenoJOliveira&theme=tokyonight&bg_color=0d0d0d&title_color=00f5ff&text_color=a0a0b0&hide_border=true&layout=compact" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/wakatime?username=BrenoJOliveira&theme=tokyonight&bg_color=0d0d0d&title_color=00f5ff&text_color=a0a0b0&icon_color=b44fff&hide_border=true&layout=compact&langs_count=8" />
+  &nbsp;
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/wakatime?username=BrenoJOliveira&theme=tokyonight&bg_color=0d0d0d&title_color=b44fff&text_color=a0a0b0&icon_color=00f5ff&hide_border=true&layout=detailed&range=last_7_days" />
 </p>
 
 <br>
