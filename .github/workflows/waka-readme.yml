@@ -16,7 +16,7 @@ jobs:
         with:
           token: ${{ secrets.GH_TOKEN }}
 
-      - uses: anmol098/waka-readme-stats@v5
+      - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
@@ -37,5 +37,7 @@ jobs:
           SHOW_PROFILE_VIEWS: "False"
           SHOW_SHORT_INFO: "False"
           SHOW_UPDATED_DATE: "False"
+          SHOW_AI_CODING: "False"
+          SHOW_AI_CODE_TIME: "False"
 
           LOCALE: "en"
