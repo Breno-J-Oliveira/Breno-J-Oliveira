@@ -16,12 +16,6 @@ jobs:
         with:
           token: ${{ secrets.GH_TOKEN }}
 
-      - name: Debug secrets
-        run: |
-          echo "GH_TOKEN length: $(echo -n "${{ secrets.GH_TOKEN }}" | wc -c)"
-          echo "WAKATIME_API_KEY length: $(echo -n "${{ secrets.WAKATIME_API_KEY }}" | wc -c)"
-          echo "GH_TOKEN starts with ghp_: $(echo -n "${{ secrets.GH_TOKEN }}" | head -c 4)"
-
       - uses: anmol098/waka-readme-stats@v5
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
@@ -38,12 +32,10 @@ jobs:
           SHOW_TOTAL_CODE_TIME: "True"
 
           SHOW_PROJECTS: "False"
-          SHOW_AI_CODING: "False"
-          SHOW_AI_CODE_TIME: "False"
           SHOW_LANGUAGE_PER_REPO: "False"
           SHOW_LOC_CHART: "False"
           SHOW_PROFILE_VIEWS: "False"
           SHOW_SHORT_INFO: "False"
           SHOW_UPDATED_DATE: "False"
 
-          LOCALE: "pt_BR"
+          LOCALE: "en"
