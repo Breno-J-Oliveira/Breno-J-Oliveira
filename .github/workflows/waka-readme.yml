@@ -16,6 +16,12 @@ jobs:
         with:
           token: ${{ secrets.GH_TOKEN }}
 
+      - name: Debug secrets
+        run: |
+          echo "GH_TOKEN length: $(echo -n "${{ secrets.GH_TOKEN }}" | wc -c)"
+          echo "WAKATIME_API_KEY length: $(echo -n "${{ secrets.WAKATIME_API_KEY }}" | wc -c)"
+          echo "GH_TOKEN starts with ghp_: $(echo -n "${{ secrets.GH_TOKEN }}" | head -c 4)"
+
       - uses: anmol098/waka-readme-stats@v5
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
