@@ -394,17 +394,17 @@ Sunday                   39 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Markdown                 3 hrs 28 mins       ██████████░░░░░░░░░░░░░░░   40.09 % 
-Other                    2 hrs 18 mins       ███████░░░░░░░░░░░░░░░░░░   26.58 % 
-TypeScript               1 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
-YAML                     37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
-Bash                     32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
+Markdown                 2 hrs 59 mins       ███████████░░░░░░░░░░░░░░   44.17 % 
+Other                    1 hr 27 mins        █████░░░░░░░░░░░░░░░░░░░░   21.56 % 
+TypeScript               50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+YAML                     37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.14 % 
+Bash                     32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 40 mins       █████████████████████████   100.00 % 
+VS Code                  6 hrs 47 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  8 hrs 40 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 47 mins       █████████████████████████   100.00 % 
 ```
 
 
