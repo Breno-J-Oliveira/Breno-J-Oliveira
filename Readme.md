@@ -394,17 +394,14 @@ Sunday                   39 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-YAML                     37 mins             ████████████░░░░░░░░░░░░░   48.65 % 
-Other                    14 mins             █████░░░░░░░░░░░░░░░░░░░░   19.33 % 
-JavaScript               7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
-TypeScript               6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
-JSON                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 % 
+JavaScript               7 mins              ██████████████░░░░░░░░░░░   54.91 % 
+JSON                     5 mins              ███████████░░░░░░░░░░░░░░   45.09 % 
 
 🔥 Editors: 
-VS Code                  1 hr 16 mins        █████████████████████████   100.00 % 
+VS Code                  13 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 16 mins        █████████████████████████   100.00 % 
+Windows                  13 mins             █████████████████████████   100.00 % 
 ```
 
 
