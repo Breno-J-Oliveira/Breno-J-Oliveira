@@ -394,19 +394,19 @@ Sunday                   39 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               57 mins             ████████░░░░░░░░░░░░░░░░░   33.04 % 
-Other                    42 mins             ██████░░░░░░░░░░░░░░░░░░░   24.48 % 
-JSON                     37 mins             █████░░░░░░░░░░░░░░░░░░░░   21.56 % 
-Markdown                 25 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.46 % 
-Git Config               8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
+TypeScript               1 hr 10 mins        █████████░░░░░░░░░░░░░░░░   37.67 % 
+Other                    42 mins             ██████░░░░░░░░░░░░░░░░░░░   22.66 % 
+JSON                     37 mins             █████░░░░░░░░░░░░░░░░░░░░   19.96 % 
+Markdown                 25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
+Git Config               8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
 
 🔥 Editors: 
-CLI                      2 hrs 28 mins       █████████████████████░░░░   85.17 % 
-VS Code                  18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.55 % 
-Antigravity CLI          7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
+CLI                      2 hrs 41 mins       █████████████████████░░░░   85.94 % 
+VS Code                  19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.10 % 
+Antigravity CLI          7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
 
 💻 Operating System: 
-Windows                  2 hrs 54 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 8 mins        █████████████████████████   100.00 % 
 ```
 
 
