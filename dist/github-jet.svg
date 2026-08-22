@@ -1136,10 +1136,13 @@
     <rect x="810" y="75" width="12" height="12" rx="2" fill="#0d0d0d" opacity="0">
           <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="2.428571428571429s" fill="freeze"/>
         </rect>
-    <rect x="810" y="90" width="12" height="12" rx="2" fill="#007a8c" opacity="0">
+    <rect x="810" y="90" width="12" height="12" rx="2" fill="#00b8cc" opacity="0">
           <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="2.428571428571429s" fill="freeze"/>
         </rect>
-    <rect x="810" y="105" width="12" height="12" rx="2" fill="#0d0d0d" opacity="0">
+    <rect x="810" y="105" width="12" height="12" rx="2" fill="#003d4d" opacity="0">
+          <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="2.428571428571429s" fill="freeze"/>
+        </rect>
+    <rect x="810" y="120" width="12" height="12" rx="2" fill="#0d0d0d" opacity="0">
           <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="2.428571428571429s" fill="freeze"/>
         </rect>
   </g>
@@ -1159,6 +1162,6 @@
 
   <!-- Stats -->
   <text x="420" y="235" text-anchor="middle" font-family="JetBrains Mono, Courier New, monospace" font-size="10" fill="#505060">
-    640 contributions this year
+    645 contributions this year
   </text>
 </svg>
