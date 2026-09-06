@@ -394,18 +394,18 @@ Sunday                   39 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               2 hrs 7 mins        ███████████░░░░░░░░░░░░░░   44.26 % 
-Markdown                 1 hr 56 mins        ██████████░░░░░░░░░░░░░░░   40.56 % 
-SQL                      20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
-JSON                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
-Prisma                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
+TypeScript               1 hr 58 mins        ██████████████░░░░░░░░░░░   56.10 % 
+Markdown                 1 hr 23 mins        ██████████░░░░░░░░░░░░░░░   39.61 % 
+Prisma                   4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
+YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
 
 🔥 Editors: 
-CLI                      4 hrs 36 mins       ████████████████████████░   96.30 % 
-VS Code                  10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+CLI                      3 hrs 29 mins       █████████████████████████   99.01 % 
+VS Code                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
 
 💻 Operating System: 
-Windows                  4 hrs 47 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 31 mins       █████████████████████████   100.00 % 
 ```
 
 
