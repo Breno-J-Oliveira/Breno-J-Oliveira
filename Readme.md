@@ -394,18 +394,18 @@ Sunday                   47 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               4 hrs 2 mins        ██████████████████░░░░░░░   73.37 % 
-Image (png)              32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
-PowerShell               18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
-Git Config               13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
-JSON                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
+TypeScript               4 hrs 14 mins       ███████████████████░░░░░░   76.25 % 
+Image (png)              32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
+Git Config               13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
+PowerShell               11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
+JSON                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
 
 🔥 Editors: 
-CLI                      5 hrs 30 mins       █████████████████████████   99.86 % 
+CLI                      5 hrs 33 mins       █████████████████████████   99.86 % 
 VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 💻 Operating System: 
-Windows                  5 hrs 31 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 33 mins       █████████████████████████   100.00 % 
 ```
 
 
