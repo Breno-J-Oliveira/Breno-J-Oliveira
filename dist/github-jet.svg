@@ -1133,6 +1133,9 @@
     <rect x="810" y="60" width="12" height="12" rx="2" fill="#0d0d0d" opacity="0">
           <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="2.428571428571429s" fill="freeze"/>
         </rect>
+    <rect x="810" y="75" width="12" height="12" rx="2" fill="#0d0d0d" opacity="0">
+          <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="2.428571428571429s" fill="freeze"/>
+        </rect>
   </g>
 
   <!-- Jet trail -->
