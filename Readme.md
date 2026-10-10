@@ -363,7 +363,7 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-65%20hrs%2039%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-66%20hrs%203%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-378.52%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -394,17 +394,15 @@ Sunday                   47 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-HTML                     36 mins             ███████████████░░░░░░░░░░   61.65 % 
-YAML                     12 mins             █████░░░░░░░░░░░░░░░░░░░░   21.79 % 
-Bash                     6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.19 % 
-TOML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+Batchfile                16 mins             ██████████████████░░░░░░░   72.12 % 
+Python                   6 mins              ███████░░░░░░░░░░░░░░░░░░   27.88 % 
 
 🔥 Editors: 
-CLI                      58 mins             █████████████████████████   100.00 % 
+VS Code                  22 mins             ████████████████████████░   97.90 % 
+CLI                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
 
 💻 Operating System: 
-Windows                  58 mins             █████████████████████████   100.00 % 
+Windows                  23 mins             █████████████████████████   100.00 % 
 ```
 
 
