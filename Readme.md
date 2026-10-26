@@ -394,13 +394,18 @@ Sunday                   122 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               3 hrs 23 mins       ████████████████████░░░░░   79.91 % 
+Markdown                 21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
+JSON                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
+HTML                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
+CSS                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Codex Vscode             4 hrs 9 mins        ████████████████████████░   97.84 % 
+VS Code                  5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  4 hrs 14 mins       █████████████████████████   100.00 % 
 ```
 
 
