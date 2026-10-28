@@ -363,7 +363,7 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-70%20hrs%2011%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-70%20hrs%2025%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-904.76%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -394,18 +394,18 @@ Sunday                   147 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               2 hrs 19 mins       ████████████████████░░░░░   78.34 % 
-Markdown                 21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
-HTML                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
-CSS                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
-JavaScript               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
+TypeScript               1 hr 11 mins        ███████████████░░░░░░░░░░   59.91 % 
+Markdown                 25 mins             █████░░░░░░░░░░░░░░░░░░░░   20.95 % 
+JavaScript               9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
+HTML                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
+CSS                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
 
 🔥 Editors: 
-Codex Vscode             2 hrs 53 mins       ████████████████████████░   96.92 % 
-VS Code                  5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
+Codex Vscode             1 hr 54 mins        ████████████████████████░   95.42 % 
+VS Code                  5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
 
 💻 Operating System: 
-Windows                  2 hrs 58 mins       █████████████████████████   100.00 % 
+Windows                  1 hr 59 mins        █████████████████████████   100.00 % 
 ```
 
 
