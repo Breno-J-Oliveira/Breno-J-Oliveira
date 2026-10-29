@@ -394,18 +394,18 @@ Sunday                   147 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               1 hr 11 mins        ███████████████░░░░░░░░░░   59.91 % 
-Markdown                 25 mins             █████░░░░░░░░░░░░░░░░░░░░   20.95 % 
-JavaScript               9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
-HTML                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
-CSS                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
+Markdown                 25 mins             ██████████████░░░░░░░░░░░   56.28 % 
+JavaScript               9 mins              █████░░░░░░░░░░░░░░░░░░░░   20.31 % 
+HTML                     5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.30 % 
+TypeScript               3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
+Image (svg)              1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
 
 🔥 Editors: 
-Codex Vscode             1 hr 54 mins        ████████████████████████░   95.42 % 
-VS Code                  5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
+Codex Vscode             39 mins             ██████████████████████░░░   87.70 % 
+VS Code                  5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.30 % 
 
 💻 Operating System: 
-Windows                  1 hr 59 mins        █████████████████████████   100.00 % 
+Windows                  44 mins             █████████████████████████   100.00 % 
 ```
 
 
